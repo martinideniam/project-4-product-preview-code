@@ -18,6 +18,7 @@ html {
 
 :root {
     --dark-cyan: hsl(158, 36%, 37%);
+    --very-dark-cyan: hsl(158, 35%, 23%);
     --cream: hsl(30, 38%, 92%);
     --very-dark-blue: hsl(212, 21%, 14%);
     --very-grayish-blue: hsl(228, 12%, 48%);
@@ -122,11 +123,16 @@ button {
     border-radius: 1rem;
     font-size: 1.5rem;
     padding: 2rem 2rem;
+    cursor: pointer;
+    
+}
+
+.add-to-cart:hover {
+    background: var(--very-dark-cyan);
 }
 
 .button-img {
-    margin-right: 1.5rem;
-    font-weight: bold;
+    margin-right: 1rem;
 }
 
 .product-properties > * {
@@ -198,14 +204,3 @@ button {
         color: var(--very-grayish-blue);
     }
 }
-
-
-/* 
- */
-
-
-/* Media queries */
-/* 
-- Mobile: 375px
-- Desktop: 1440px 
-*/

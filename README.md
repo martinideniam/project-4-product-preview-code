@@ -1,4 +1,4 @@
-# This is my solution to challenge by FrontendMentor: Product Preview Card 
+# This is my solution to challenge by FrontendMentor: Product Preview Card
 
 ### Screenshot
 
@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/martinideniam/project-4-product-preview-code
+- Live Site URL: https://martinideniam.github.io/project-4-product-preview-code/
 
 ## My process
 
@@ -18,4 +18,3 @@
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
